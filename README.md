@@ -20,35 +20,3 @@ Put your OpenAI API key in `.env`.
 ```powershell
 dotnet run --project src/CosineByHand
 ```
-
-## Now we put the catalog in Chroma
-
-Chroma has no first-class .NET client we can depend on. We keep an in-memory cosine collection and persist it as JSON under chroma_data/ instead, with the same add, query, update, and delete steps.
-
-```powershell
-dotnet run --project src/CreateCollection
-```
-
-## Let's update a card and drop the collection
-
-```powershell
-dotnet run --project src/QueryUpdateDelete
-```
-
-## Let's filter the catalog and pick a film
-
-```powershell
-dotnet run --project src/FilterRecommend
-```
-
-## Now we stuff the hits into a prompt
-
-```powershell
-dotnet run --project src/RagFromHits
-```
-
-## Serve it with a small page
-
-```powershell
-dotnet run --project src/App
-```
