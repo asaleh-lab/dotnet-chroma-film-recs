@@ -40,3 +40,9 @@ dotnet run --project src/QueryUpdateDelete
 ```powershell
 dotnet run --project src/FilterRecommend
 ```
+
+## Now we stuff the hits into a prompt
+
+```powershell
+dotnet run --project src/RagFromHits
+```
