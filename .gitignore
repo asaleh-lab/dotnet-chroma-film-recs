@@ -1,0 +1,6 @@
+bin/
+obj/
+.env
+chroma_data/
+.vs/
+*.user
