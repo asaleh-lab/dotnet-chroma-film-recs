@@ -46,3 +46,9 @@ dotnet run --project src/FilterRecommend
 ```powershell
 dotnet run --project src/RagFromHits
 ```
+
+## Serve it with a small page
+
+```powershell
+dotnet run --project src/App
+```
