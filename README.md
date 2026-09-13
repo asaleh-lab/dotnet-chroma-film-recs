@@ -20,3 +20,11 @@ Put your OpenAI API key in `.env`.
 ```powershell
 dotnet run --project src/CosineByHand
 ```
+
+## Now we put the catalog in Chroma
+
+Chroma has no first-class .NET client we can depend on. We keep an in-memory cosine collection and persist it as JSON under chroma_data/ instead, with the same add, query, update, and delete steps.
+
+```powershell
+dotnet run --project src/CreateCollection
+```
