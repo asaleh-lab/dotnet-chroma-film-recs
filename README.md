@@ -28,3 +28,15 @@ Chroma has no first-class .NET client we can depend on. We keep an in-memory cos
 ```powershell
 dotnet run --project src/CreateCollection
 ```
+
+## Let's update a card and drop the collection
+
+```powershell
+dotnet run --project src/QueryUpdateDelete
+```
+
+## Let's filter the catalog and pick a film
+
+```powershell
+dotnet run --project src/FilterRecommend
+```
