@@ -1,0 +1,98 @@
+[
+  {
+    "id": "lost-in-translation",
+    "title": "Lost in Translation",
+    "language": "en",
+    "minutes": 102,
+    "playing_this_week": true,
+    "description": "A man and a woman cannot sleep in a Tokyo hotel. They walk at night and talk a little. English and Japanese."
+  },
+  {
+    "id": "independence-day",
+    "title": "Independence Day",
+    "language": "en",
+    "minutes": 145,
+    "playing_this_week": true,
+    "description": "Aliens attack Earth. Planes, explosions, and a big speech."
+  },
+  {
+    "id": "whiplash",
+    "title": "Whiplash",
+    "language": "en",
+    "minutes": 106,
+    "playing_this_week": true,
+    "description": "A young drummer and a teacher who shouts at him. The music is very loud."
+  },
+  {
+    "id": "run-lola-run",
+    "title": "Run Lola Run",
+    "language": "de",
+    "minutes": 81,
+    "playing_this_week": true,
+    "description": "Lola has 20 minutes to get money and save her boyfriend. She runs through Berlin. German."
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "language": "ja",
+    "minutes": 125,
+    "playing_this_week": true,
+    "description": "A girl is trapped in a bathhouse for spirits and has to work there. Japanese animation."
+  },
+  {
+    "id": "amelie",
+    "title": "Amélie",
+    "language": "fr",
+    "minutes": 122,
+    "playing_this_week": false,
+    "description": "A shy woman in Paris does small kind things for people. French. Not on this week."
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "language": "ko",
+    "minutes": 132,
+    "playing_this_week": true,
+    "description": "A poor family gets jobs in a rich house in Seoul. Korean."
+  },
+  {
+    "id": "in-the-mood-for-love",
+    "title": "In the Mood for Love",
+    "language": "zh",
+    "minutes": 98,
+    "playing_this_week": false,
+    "description": "Two neighbours in Hong Kong. Slow, sad, not much happens. Cantonese. Not on this week."
+  },
+  {
+    "id": "pans-labyrinth",
+    "title": "Pan's Labyrinth",
+    "language": "es",
+    "minutes": 118,
+    "playing_this_week": true,
+    "description": "A girl in Spain during the war finds a magic world. Also soldiers and danger. Spanish."
+  },
+  {
+    "id": "mad-max-fury-road",
+    "title": "Mad Max: Fury Road",
+    "language": "en",
+    "minutes": 120,
+    "playing_this_week": false,
+    "description": "A chase in the desert with cars and sand. Very noisy. Not on this week."
+  },
+  {
+    "id": "capernaum",
+    "title": "Capernaum",
+    "language": "ar",
+    "minutes": 126,
+    "playing_this_week": true,
+    "description": "A boy from a poor part of Beirut takes his parents to court. Arabic."
+  },
+  {
+    "id": "das-boot",
+    "title": "Das Boot",
+    "language": "de",
+    "minutes": 149,
+    "playing_this_week": true,
+    "description": "A German submarine in World War 2. Small rooms, engines, a lot of waiting. German."
+  }
+]
