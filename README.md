@@ -15,7 +15,7 @@ copy .env.example .env
 
 Put your OpenAI API key in `.env`.
 
-## Let's score two films by hand
+## Score two films by hand
 
 ```powershell
 dotnet run --project src/CosineByHand
@@ -29,13 +29,13 @@ Chroma has no first-class .NET client we can depend on. We keep an in-memory cos
 dotnet run --project src/CreateCollection
 ```
 
-## Let's update a card and drop the collection
+## Update a card and drop the collection
 
 ```powershell
 dotnet run --project src/QueryUpdateDelete
 ```
 
-## Let's filter the catalog and pick a film
+## Filter the catalog and pick a film
 
 ```powershell
 dotnet run --project src/FilterRecommend
