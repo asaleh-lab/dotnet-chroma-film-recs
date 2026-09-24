@@ -2,8 +2,6 @@
 
 This repo demonstrates how to keep a small catalog as vectors and search it by meaning. The example we will use is this week's films at The Lantern, a one-screen cinema. In our case we need a film for a tired evening, even when the text never says the word we typed.
 
-**Article:** [Recommend a film by semantic search with Chroma and Gradio](https://wysiwygs.de/blog/recommend-a-film-by-semantic-search-chroma-gradio/)
-
 This article is a practical implementation of the concepts in [Vector Databases for RAG: An Introduction](https://www.coursera.org/learn/vector-databases-for-rag-an-introduction).
 
 ## Setup
